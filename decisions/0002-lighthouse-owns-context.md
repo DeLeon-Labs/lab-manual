@@ -21,4 +21,3 @@ Context behavior has one accountable owner and receivers can integrate against a
 stable conceptual contract. Lighthouse becomes a critical integration surface
 and must remain transparent, permission-aware, and resilient. Domain plugins
 retain responsibility for validating context before acting on it.
-

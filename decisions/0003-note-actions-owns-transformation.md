@@ -21,4 +21,3 @@ Users get a consistent boundary between proposals and applied changes, along wit
 shared expectations for preview, provenance, and reversibility. Note Actions must
 support diverse transformation intents without absorbing the domain logic or
 identity of every plugin.
-

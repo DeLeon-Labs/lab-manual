@@ -55,4 +55,3 @@ ecosystem.
 Architecture changes begin as decision records. Accepted decisions update the
 relevant vision, protocol, charter, and roadmap documents so readers do not need
 to reconstruct current truth from historical records alone.
-

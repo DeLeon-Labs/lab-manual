@@ -29,4 +29,3 @@ user's own authored material.
 
 Collected material is easy to rediscover and can enter another workflow without
 losing its origin or collection context.
-

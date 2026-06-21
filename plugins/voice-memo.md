@@ -29,4 +29,3 @@ Note Actions can transform selected transcript material.
 
 A spoken idea can move into another workflow while remaining connected to its
 audio source and any transcript uncertainty.
-

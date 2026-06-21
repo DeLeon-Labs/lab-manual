@@ -38,4 +38,3 @@ The ecosystem is not intended to:
 The ecosystem succeeds when independent plugins remain understandable on their
 own, integrations require little bespoke coordination, transferred context keeps
 its provenance, and users can predict which plugin is responsible for an action.
-

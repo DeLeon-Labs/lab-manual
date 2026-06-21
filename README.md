@@ -29,4 +29,3 @@ the explanation of how those products fit together.
 
 This repository contains documentation only. It does not contain plugin source
 code, shared runtime code, generated artifacts, or deployment configuration.
-

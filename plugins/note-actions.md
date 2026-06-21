@@ -30,4 +30,3 @@ context independently.
 
 Users can predict what an action will affect, inspect what changed, and recover
 the original material.
-

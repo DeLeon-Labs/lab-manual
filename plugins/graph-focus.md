@@ -29,4 +29,3 @@ the underlying source records.
 
 Users can move from an overwhelming network to a comprehensible, task-relevant
 view while retaining the meaning and provenance of relationships.
-

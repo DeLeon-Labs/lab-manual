@@ -29,4 +29,3 @@ and tool limitations, and must point back to the material inspected.
 
 Users can see which claims are supported, which need attention, and why a finding
 was made.
-

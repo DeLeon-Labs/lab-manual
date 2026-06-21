@@ -30,4 +30,3 @@ with whom before a handoff when the scope is not already evident.
 
 Users can understand, adjust, and reuse a context package without needing to know
 how the contributing plugins store their data.
-

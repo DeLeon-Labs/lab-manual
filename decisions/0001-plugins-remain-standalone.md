@@ -20,4 +20,3 @@ Plugins can evolve and ship independently, with clearer ownership and smaller
 repository scopes. Shared behavior must be documented as a contract, and changes
 that span repositories require deliberate coordination. Some documentation will
 necessarily link between this manual and plugin-specific repositories.
-

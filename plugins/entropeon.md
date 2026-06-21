@@ -29,4 +29,3 @@ until a user explicitly applies them through the appropriate owner.
 
 Users encounter useful surprise without losing control of constraints, sources,
 or the distinction between original and generated material.
-

@@ -55,4 +55,3 @@ major version, a migration note, and an ecosystem decision record.
 - What is the minimum portable representation for graph relationships?
 - Which permission vocabulary is shared across all plugins?
 - How should large or binary sources be referenced without embedding them?
-
