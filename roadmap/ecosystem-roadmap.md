@@ -5,11 +5,11 @@ individual plugins. Dates and release commitments belong in plugin repositories.
 
 ## Now: establish the foundation
 
-- Ratify the ecosystem vision and plugin charters.
-- Resolve the open questions in the context protocol.
-- Add links to each standalone plugin repository as they are established.
-- Define the decision-record workflow and maintainers for this manual.
-- Inventory existing cross-plugin assumptions before they harden into contracts.
+- [ ] Ratify the ecosystem vision and plugin charters with plugin maintainers.
+- [ ] Resolve the open questions in the context protocol.
+- [x] Add links to each standalone plugin repository as they are established.
+- [x] Define the decision-record workflow and interim maintainership rule.
+- [x] Inventory existing cross-plugin assumptions before they harden into contracts.
 
 ## Next: validate the contracts
 
